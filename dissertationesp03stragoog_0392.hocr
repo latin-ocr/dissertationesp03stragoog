@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./dissertationesp03stragoog_0392.png"; bbox 0 0 2978 4792; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 201 1759 678 1828">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 201 1759 678 1828">
+     <span class='ocr_line' id='line_1_1' title="bbox 201 1759 678 1828; baseline -0.008 0"><span class='ocrx_word' id='word_1_1' title='bbox 201 1761 288 1828; x_wconf 82' lang='lat' dir='ltr'>Den</span> <span class='ocrx_word' id='word_1_2' title='bbox 313 1759 447 1825; x_wconf 84' lang='lat' dir='ltr'>Herren</span> <span class='ocrx_word' id='word_1_3' title='bbox 470 1760 678 1826; x_wconf 82' lang='lat' dir='ltr'>Professoren</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 73 2016 1247 2340">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 73 2016 1247 2340">
+     <span class='ocr_line' id='line_1_2' title="bbox 458 2016 911 2122; baseline 0.007 -21"><span class='ocrx_word' id='word_1_4' title='bbox 458 2017 535 2103; x_wconf 87' lang='lat' dir='ltr'>Dr.</span> <span class='ocrx_word' id='word_1_5' title='bbox 563 2017 611 2103; x_wconf 92' lang='lat' dir='ltr'>P.</span> <span class='ocrx_word' id='word_1_6' title='bbox 638 2016 911 2122; x_wconf 83' lang='lat' dir='ltr'>VIEREOK‚</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 73 2248 1247 2340; baseline -0.007 1"><span class='ocrx_word' id='word_1_7' title='bbox 73 2256 165 2340; x_wconf 89' lang='lat' dir='ltr'>Dr.</span> <span class='ocrx_word' id='word_1_8' title='bbox 180 2253 264 2337; x_wconf 87' lang='lat' dir='ltr'>Fr.</span> <span class='ocrx_word' id='word_1_9' title='bbox 278 2249 513 2335; x_wconf 82' lang='lat' dir='ltr'>Freiherm</span> <span class='ocrx_word' id='word_1_10' title='bbox 521 2249 742 2336; x_wconf 80' lang='lat' dir='ltr'><strong>HILLER</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 758 2283 800 2337; x_wconf 87' lang='lat' dir='ltr'>v.</span> <span class='ocrx_word' id='word_1_12' title='bbox 814 2248 1247 2338; x_wconf 82' lang='lat' dir='ltr'><strong>GAERTRINGEN</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 549 2621 1135 2706">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 549 2621 1135 2706">
+     <span class='ocr_line' id='line_1_4' title="bbox 549 2621 1135 2706; baseline 0.002 -21"><span class='ocrx_word' id='word_1_13' title='bbox 549 2623 585 2686; x_wconf 88' lang='lat' dir='ltr'>in</span> <span class='ocrx_word' id='word_1_14' title='bbox 606 2621 827 2688; x_wconf 79' lang='lat' dir='ltr'><strong>Dankbarkeit</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 849 2621 916 2688; x_wconf 89' lang='lat' dir='ltr'>und</span> <span class='ocrx_word' id='word_1_16' title='bbox 927 2622 1135 2706; x_wconf 75' lang='lat' dir='ltr'>verehrung.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1494 4792">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1494 4792">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1494 4792; baseline 0 0"><span class='ocrx_word' id='word_1_17' title='bbox 0 0 1494 4792; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

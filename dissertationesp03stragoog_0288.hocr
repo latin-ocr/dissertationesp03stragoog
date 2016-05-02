@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./dissertationesp03stragoog_0288.png"; bbox 0 0 2872 4822; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 35 594 1205 1282">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 35 594 1205 1282">
+     <span class='ocr_line' id='line_1_1' title="bbox 221 594 894 709; baseline 0.004 -4"><span class='ocrx_word' id='word_1_1' title='bbox 221 594 333 705; x_wconf 78' lang='lat' dir='ltr'><strong>DIE</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 373 595 894 709; x_wconf 84' lang='grc' dir='ltr'><strong>ΠΑΡΑΚΛΗΤΙΚΟΙ</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 35 857 1205 996; baseline 0.003 -5"><span class='ocrx_word' id='word_1_3' title='bbox 35 879 139 992; x_wconf 68' lang='lat' dir='ltr'><strong>&gt;ER</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 165 881 648 996; x_wconf 78' lang='lat' dir='ltr'><strong>GRIEGHISCHEN</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 674 882 807 996; x_wconf 89' lang='lat' dir='ltr'><strong>UND</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 827 857 1205 995; x_wconf 72' lang='lat' dir='ltr'><strong>ROMISOHEN</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 332 1169 744 1282; baseline 0.002 -2"><span class='ocrx_word' id='word_1_7' title='bbox 332 1218 334 1222; x_wconf 94' lang='lat'>·</span> <span class='ocrx_word' id='word_1_8' title='bbox 367 1169 744 1282; x_wconf 78' lang='lat' dir='ltr'><strong>LITERATUR.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 273 2256 839 2341">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 273 2256 839 2341">
+     <span class='ocr_line' id='line_1_4' title="bbox 273 2256 839 2341; baseline 0.004 -2"><span class='ocrx_word' id='word_1_9' title='bbox 273 2257 305 2338; x_wconf 88' lang='lat' dir='ltr'><strong>J</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 309 2257 466 2339; x_wconf 81' lang='lat' dir='ltr'>OSEF</span> <span class='ocrx_word' id='word_1_11' title='bbox 494 2256 839 2341; x_wconf 81' lang='lat' dir='ltr'><strong>ALBERTUS.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 211 4003 903 4082">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 211 4003 903 4082">
+     <span class='ocr_line' id='line_1_5' title="bbox 211 4003 903 4082; baseline 0.012 -10"><span class='ocrx_word' id='word_1_12' title='bbox 211 4010 377 4079; x_wconf 76' lang='lat' dir='ltr'><strong>VERLAG</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 399 4017 488 4082; x_wconf 86' lang='lat' dir='ltr'><strong>VON</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 513 4017 630 4082; x_wconf 81' lang='lat' dir='ltr'><strong>KARL</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 652 4017 682 4081; x_wconf 85' lang='lat' dir='ltr'><strong>J.</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 701 4003 903 4080; x_wconf 77' lang='lat' dir='ltr'>TRUBNER</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1440 4822">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1440 4822">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1440 4822; baseline 0 0"><span class='ocrx_word' id='word_1_17' title='bbox 0 0 1440 4822; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
